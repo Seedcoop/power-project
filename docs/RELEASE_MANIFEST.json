@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "packagedOn": "2026-11-15",
+  "baseline": "power-project-tablet-review-20261113/index.html",
+  "application": {
+    "path": "index.html",
+    "bytes": 8855869,
+    "sha256": "dcfba7e823abc20dd700d950fd22e55cfce45fe2d71a38afb8f797094da35eba",
+    "byteIdenticalToBaseline": true,
+    "engineSha256": "1e1bfe3ad96a6150ed4ae00471019a0b3a731b516ea7c6e2d43d238f308c3ccb",
+    "masterSha256": "67f8d4c932b6ad52cb10ce5e7d344dd5e51facfc3cc5fcee6e5b3da3b84393e5"
+  },
+  "licenseNotice": {
+    "path": "licenses/OFL-Paperlogy.txt",
+    "sha256": "603b2e7ef9effb9037b0b67f0530cacdc05e71a4e569032d7e4d98c2e6763135",
+    "copiedFrom": "index.html#paperlogy-license"
+  },
+  "assetCounts": {
+    "imageOccurrences": 62,
+    "uniqueImageHashes": 62,
+    "fonts": 3
+  },
+  "scope": {
+    "gameModified": false,
+    "designModified": false,
+    "gitInitialized": false,
+    "remoteUpload": false,
+    "pagesEnabled": false
+  },
+  "publicationRights": "pending-confirmation",
+  "physicalDevices": "not-tested",
+  "excluded": [
+    "automation scripts with machine-specific paths",
+    "qa input samples and saved verification records",
+    "previous versions and source project mirror",
+    "screenshots and private approval material"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 585,
+      "sha256": "fc127bec24dd8cea43e056e2c537eced5a60bb91c71d88dc775edad2976289fa"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "LICENSE_NOTICE.md",
+      "bytes": 1657,
+      "sha256": "e146e40fcac31d75a2f0e3e88e0c887dfac309a11d02453458c912c223a04ee1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 6276,
+      "sha256": "ed45b5c3490d1d26560396ed269dd445db27e6d7136d0db90fb5f740c2c07e3e"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 2006,
+      "sha256": "cc2a615578afc83d6567e10ddba5fc166460aa7ac7204d66d861b16bcf97c9c3"
+    },
+    {
+      "path": "docs/ASSET_INVENTORY.json",
+      "bytes": 26636,
+      "sha256": "413b6cd4e1f51c15abd647fa4ec86191b1f9a48a08c3533503561dcdcf9ca384"
+    },
+    {
+      "path": "docs/ASSET_INVENTORY.md",
+      "bytes": 11371,
+      "sha256": "d540dfe8b63bfd96cec8bf004b2623ee8c2440cacaa239bc576f6a0218946671"
+    },
+    {
+      "path": "docs/PUBLICATION_REVIEW.md",
+      "bytes": 4041,
+      "sha256": "0fe22c7c1545d0dc9be6e6456be06e63d6a17d476cebeba2f693e14c87f9e80d"
+    },
+    {
+      "path": "docs/VALIDATION.md",
+      "bytes": 2646,
+      "sha256": "a7c6dc6d7a93a7e9d67a415dc7a154e18372faa79e588974f9e1e2a60bb20fa3"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8855869,
+      "sha256": "dcfba7e823abc20dd700d950fd22e55cfce45fe2d71a38afb8f797094da35eba"
+    },
+    {
+      "path": "licenses/OFL-Paperlogy.txt",
+      "bytes": 4380,
+      "sha256": "603b2e7ef9effb9037b0b67f0530cacdc05e71a4e569032d7e4d98c2e6763135"
+    }
+  ]
+}

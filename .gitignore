@@ -1,0 +1,37 @@
+# Local authoring and editor state
+.codex/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Runtime dependencies / generated test results
+node_modules/
+playwright-report/
+test-results/
+coverage/
+qa/
+screens/
+sources/
+private/
+.local/
+
+# Machine-specific files and records
+*.local
+*.log
+*.tmp
+*.bak
+*.cpuprofile
+*.zip
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+자동화_입력샘플.*
+POWER_PROJECT_실기기_검증기록*.json
+POWER_PROJECT_실기기_검증표*.csv
+
+# Keep release documentation / asset inventory tracked.
+# .gitignore does not remove files that were already committed.
