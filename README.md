@@ -2,7 +2,11 @@
 
 고등학생 모둠이 5개 분야의 설계안을 선택하며 발전소 설계 의사결정을 체험하는 웹앱입니다. 단일 HTML에 화면·계산 엔진·이미지·서체·WebGL 모델·SVG 대체 화면이 포함되어 있습니다.
 
-현재 폴더는 **GitHub 등록 준비본**입니다. 공개 권한 검토는 [공개 전 확인표](docs/PUBLICATION_REVIEW.md)를 확인하세요. 저장소 생성·업로드·GitHub Pages 설정은 아직 수행하지 않았습니다.
+실행 주소: **https://seedcoop.github.io/power-project/**
+
+저장소: https://github.com/Seedcoop/power-project
+
+2026-11-15 사용자 승인에 따라 공개 저장소에 업로드하고 GitHub Pages 배포를 완료했습니다. 게시 원본은 `main` 브랜치의 `/(root)`입니다. 게임 HTML은 준비본과 동일합니다. 자료별 공개 권한 근거의 별도 확인 상태는 [확인표](docs/PUBLICATION_REVIEW.md)에 유지합니다.
 
 ## 실행
 

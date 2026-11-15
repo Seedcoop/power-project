@@ -24,8 +24,8 @@
     "gameModified": false,
     "designModified": false,
     "gitInitialized": false,
-    "remoteUpload": false,
-    "pagesEnabled": false
+    "remoteUpload": true,
+    "pagesEnabled": true
   },
   "publicationRights": "pending-confirmation",
   "physicalDevices": "not-tested",
@@ -53,8 +53,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6276,
-      "sha256": "ed45b5c3490d1d26560396ed269dd445db27e6d7136d0db90fb5f740c2c07e3e"
+      "bytes": 6490,
+      "sha256": "b11c825c03c6e7e22703a3237a289b0e0247413b37e8cd770811cc235e3ebc0d"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -73,13 +73,13 @@
     },
     {
       "path": "docs/PUBLICATION_REVIEW.md",
-      "bytes": 4041,
-      "sha256": "0fe22c7c1545d0dc9be6e6456be06e63d6a17d476cebeba2f693e14c87f9e80d"
+      "bytes": 4235,
+      "sha256": "72decb08cb0d04e14a2c662f2d381006171dd59cd9f491b06f5dc6d684e2e980"
     },
     {
       "path": "docs/VALIDATION.md",
-      "bytes": 2646,
-      "sha256": "a7c6dc6d7a93a7e9d67a415dc7a154e18372faa79e588974f9e1e2a60bb20fa3"
+      "bytes": 3355,
+      "sha256": "ea009c08cdb21545edc0f7748dca970b616919e8a3e1eb1998cd497303e05a8b"
     },
     {
       "path": "index.html",
@@ -91,5 +91,9 @@
       "bytes": 4380,
       "sha256": "603b2e7ef9effb9037b0b67f0530cacdc05e71a4e569032d7e4d98c2e6763135"
     }
-  ]
+  ],
+  "repository": "https://github.com/Seedcoop/power-project",
+  "site": "https://seedcoop.github.io/power-project/",
+  "visibility": "public",
+  "publishedOn": "2026-11-15"
 }
