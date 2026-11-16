@@ -4,9 +4,9 @@
   "baseline": "power-project-tablet-review-20261113/index.html",
   "application": {
     "path": "index.html",
-    "bytes": 8855869,
-    "sha256": "dcfba7e823abc20dd700d950fd22e55cfce45fe2d71a38afb8f797094da35eba",
-    "byteIdenticalToBaseline": true,
+    "bytes": 8855902,
+    "sha256": "ea76b703e7aa621fe89d4f039dd223e0fb8bedd296d6f73588dd1567a0cd6175",
+    "byteIdenticalToBaseline": false,
     "engineSha256": "1e1bfe3ad96a6150ed4ae00471019a0b3a731b516ea7c6e2d43d238f308c3ccb",
     "masterSha256": "67f8d4c932b6ad52cb10ce5e7d344dd5e51facfc3cc5fcee6e5b3da3b84393e5"
   },
@@ -21,7 +21,7 @@
     "fonts": 3
   },
   "scope": {
-    "gameModified": false,
+    "gameModified": true,
     "designModified": false,
     "gitInitialized": false,
     "remoteUpload": true,
@@ -53,8 +53,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6490,
-      "sha256": "b11c825c03c6e7e22703a3237a289b0e0247413b37e8cd770811cc235e3ebc0d"
+      "bytes": 6604,
+      "sha256": "1ccb193085ca65d8e2d519014ae0b62daee676b696a5c10653abc099f0a18544"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -78,13 +78,13 @@
     },
     {
       "path": "docs/VALIDATION.md",
-      "bytes": 3355,
-      "sha256": "ea009c08cdb21545edc0f7748dca970b616919e8a3e1eb1998cd497303e05a8b"
+      "bytes": 4099,
+      "sha256": "cef236ab9a5b07fba0d6c40224e170c4f4ffe06a6f508be15cb5280aa3c2abc2"
     },
     {
       "path": "index.html",
-      "bytes": 8855869,
-      "sha256": "dcfba7e823abc20dd700d950fd22e55cfce45fe2d71a38afb8f797094da35eba"
+      "bytes": 8855902,
+      "sha256": "ea76b703e7aa621fe89d4f039dd223e0fb8bedd296d6f73588dd1567a0cd6175"
     },
     {
       "path": "licenses/OFL-Paperlogy.txt",
@@ -95,5 +95,7 @@
   "repository": "https://github.com/Seedcoop/power-project",
   "site": "https://seedcoop.github.io/power-project/",
   "visibility": "public",
-  "publishedOn": "2026-11-15"
+  "publishedOn": "2026-11-15",
+  "revisedOn": "2026-11-16",
+  "revision": "발전 성능 단계 설명을 쉽게 풀어 쓰고, 공통 그림 제목을 원리 알아보기로 변경. 계산 규칙·이미지·서체는 유지."
 }
